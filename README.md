@@ -10,7 +10,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web.
 " A vontade é a força que move todas virtudes, que por sua vez, devem orientar as nossas escolhas. Onde há uma vontade, há um caminho."
 
  <div>
-  <a href="https://github.com/felipesouz4dev">
+  <a href="https://github.com/fbsdsgn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesouz4dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesouz4dev&layout=compact&langs_count=7&theme=nord"/>
 </div>
