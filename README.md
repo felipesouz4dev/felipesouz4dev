@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Souza-434C5E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fbsdsgn/)](https://www.linkedin.com/in/fbsdsgn/) 
-[![Gmail Badge](https://img.shields.io/badge/-fbsdsgn@gmail.com.com-434C5E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbsdsgn@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fbsdsgn@gmail.com-434C5E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbsdsgn@gmail.com)](mailto:diego.schell.f@gmail.com)
 [![Gitlab Badge](https://img.shields.io/badge/-@fbsdsgn-434C5E?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/fbsdsgn)](https://gitlab.com/fbsdsgn)
 
 Entusiasta das melhores tecnologias de desenvolvimento web.
