@@ -27,4 +27,4 @@ Entusiasta das melhores tecnologias de desenvolvimento web.
 ### Social
 
 [![Facebook Badge](https://img.shields.io/badge/-@felipesouzadsgn-434C5E?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/felipesouzadsgn/)](https://www.facebook.com/felipesouzadsgn/)
-[![Instagram Badge](https://img.shields.io/badge/-@fbsdsgn-434C5E?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipesouzadsgn/)](https://www.instagram.com/felipesouzadsgn/)
+[![Instagram Badge](https://img.shields.io/badge/-@felipesouzadsgn-434C5E?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/felipesouzadsgn/)](https://www.instagram.com/felipesouzadsgn/)
